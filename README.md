@@ -1,4 +1,4 @@
-# coronaapp
+# Corona-Tracker
 
 A new Flutter application.
 
